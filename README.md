@@ -75,5 +75,5 @@ Correo: apaulina.pardo@outlook.com
 
 LinkedIn: linkedin.com/in/paulina-pardo
 
-GitHub: github.com/AnsreaMim
+GitHub: github.com/AndreaMim
 
