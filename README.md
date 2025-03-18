@@ -35,6 +35,18 @@ Manejo de pop-ups y validación de UI/UX.
 
 Repositorio: GitHub - Urban Routes
 
+Urban Grocers - Pruebas de eCommerce
+
+Automatización de pruebas para una plataforma de compras en línea, asegurando la funcionalidad de búsqueda de productos, carrito de compras y procesamiento de pagos.
+
+Desarrollo de pruebas automatizadas con Selenium y PyTest.
+
+Validación de integración con pasarelas de pago.
+
+Reporte de errores y análisis de rendimiento.
+
+Repositorio: GitHub - Urban Grocers
+
 Pruebas de APIs para un Sistema de Reservas
 
 Automatización y validación de endpoints clave para un sistema de reservas en la industria del transporte.
