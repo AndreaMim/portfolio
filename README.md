@@ -13,7 +13,7 @@ Herramientas y Frameworks: PyCharm, WebDriverWait, locators, page object model
 
 Pruebas de APIs: Postman, REST Assured
 
-Gestón de versiones: Git, GitHub
+Gestión de versiones: Git, GitHub
 
 Metodologías: QA en entornos Agile (Scrum y Kanban en aprendizaje)
 
