@@ -70,6 +70,11 @@ Atención al detalle y precisión, habilidades transferibles a QA.
 
 Manejo de herramientas digitales para optimizar la productividad.
 
+
+Certificaciones
+
+<div style="width: 150px; text-align: center"><a href="https://testrigor.com/certificates/NvAhPOgAitZi2XZHLD6o90Vz"><img src="https://testrigor.com/wp-content/uploads/2023/10/AI-Testing-Engineer-Certification-Badge-Black.png" style="width: 150px" alt="testRigor AI Testing Engineer Certification Badge"></a><br><a href="https://testrigor.com" style="font-size: 13px" title="testRigor Websit">testRigor Website</a></div>
+
 Contacto
 
 Correo: apaulina.pardo@outlook.com
